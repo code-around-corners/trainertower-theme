@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600&display=swap');
+
+body {
+	background-image: url("../images/explorer.gif");
+	background-repeat: repeat;
+	font-family: 'Raleway', sans-serif !important;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-size: 14px;
+}
+
+#site-logo img {
+	height: 100px;
+	width: auto;
+}
+
+.social-icon {
+	height: 40px;
+	width: auto;
+}
+
+.nav-link {
+	color: #bbb !important;
+}
+
+.card a {
+	color: #36456d !important;
+}
+
+.container a:hover {
+	color: #dc115e !important;
+}
+
+.image-fit {
+	width: 100%;
+	height: auto;
+}
+
+h5 {
+	font-weight: 600;
+	font-size: 18px;
+}
+
+.slider-banner {
+	background-color: #dc115e;
+	box-shadow: 0px 0px 10px #000;
+}
+
+.ttred {
+	background-color: #dc115e;
+}
+
+.ttred-text {
+	color: #dc115e;
+}
+
+.ttblue {
+	background-color: #36456d;
+}
+
+.ttblue-text {
+	color: #36456d;
+}
+
+.wp-pagenavi a, .wp-pagenavi span {
+	border: none !important;
+}
+
+img.featured {
+	max-height: 400px;
+	height: auto;
+	width: 100%;
+}
+
+.bg-darker {
+	background-color: #1a1d20 !important;
+}
