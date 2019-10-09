@@ -31,7 +31,13 @@ body {
 	color: #dc115e !important;
 }
 
-img, .image-fit {
+img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+
+.image-fit {
 	width: 100%;
 	height: auto;
 }

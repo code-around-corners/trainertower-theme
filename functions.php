@@ -1,5 +1,7 @@
 <?php
 
+add_theme_support('post-thumbnails');
+
 function trainertower_widgets_init() {
 	register_sidebar(array(
 		'name'          => 'Home Page Sidebar',
