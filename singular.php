@@ -13,7 +13,7 @@
 			<div class="card-header text-center ttblue text-light"><h3 class="m-0 p-1"><? the_title(); ?></h3></div>
 <?			if ( isset($image[0]) ) { ?>
 			<div class="text-center mt-sm-2">
-				<img class="featured text-center" style="max-width: <? echo $imageSize[0]; ?>px;" src="<? echo $image[0]; ?>" />
+				<img class="image-fit text-center" style="max-width: <? echo $imageSize[0]; ?>px;" src="<? echo $image[0]; ?>" />
 			</div>
 <?			} ?>
 			<div class="card-body">

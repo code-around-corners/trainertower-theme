@@ -31,7 +31,7 @@
 					</div>
 					<div class="col-12 col-sm-6 text-center text-sm-left">
 						<p>
-							© 2019 Trainer Tower. All rights reserved of the original content. Pokémon and all related
+							© 2020 Trainer Tower. All rights reserved of the original content. Pokémon and all related
 							properties © The Pokémon Company, Creatures Inc., Game Freak and Nintendo. Trainer Tower is a
 							fan-site, and in no way affiliated with TPCi.
 						</p>
@@ -45,12 +45,5 @@
 
 <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/jquery/js/jquery-3.4.1.min.js"></script>
 <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/pokesprite/js/pokesprite.min.js"></script>
-
-<script lang="text/javascript">
-	$(document).ready(function() {
-		PkSpr.process_dom();
-	});
-</script>
 
 </html>

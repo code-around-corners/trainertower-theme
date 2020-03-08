@@ -81,3 +81,7 @@ img.featured {
 .bg-darker {
 	background-color: #1a1d20 !important;
 }
+
+.flag-icon {
+    height: 50px;
+}
